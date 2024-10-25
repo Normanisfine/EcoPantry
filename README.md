@@ -1,5 +1,5 @@
 # EcoPantry
-This is the fa project for Microsoft Developers AI Learning Hackathon 2024
+This is the a project for Microsoft Developers AI Learning Hackathon 2024
 
 ## Backend .env
 
